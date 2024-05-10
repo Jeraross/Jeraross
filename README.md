@@ -20,8 +20,6 @@ Everyone calls me Jera, so fell free to call me that way. My focus lies in speci
 
 ### Technologies I've been learning:
 
-<img align='right' src="https://media1.tenor.com/m/DldnJaNJaG0AAAAd/teclado-elevado-techno.gif" width="300">
-
 - Programming languages : <br />
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -37,12 +35,10 @@ Everyone calls me Jera, so fell free to call me that way. My focus lies in speci
 
 ### Statistics:
 
-<img align='right' src="https://media1.tenor.com/m/0oNl9zLTkcIAAAAC/regular-show-mordecai-and-rigby.gif" width="300">
-
 <div>
 <a href="https://github.com/Jeraross">
-<img loading="lazy" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeraross&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="130" src="https://github-readme-stats.vercel.app/api?username=Jeraross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeraross&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeraross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 

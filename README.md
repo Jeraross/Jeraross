@@ -8,7 +8,7 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp4d2JmYXZjZWR5cTRpdmQwdmhtZ2U5emU4a3dlbWpnNzVzZXFjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12XxYnYLMEn6yA/giphy.gif" width="300">
 
-Everyone calls me Jera, so fell free to call me that way. My focus lies in specializing in **Machine Learning** and **Data science**, my goal is to contribute to advancements that can move the world.
+Everyone calls me Jera, so fell free to call me that way. My focus lies in specializing in **Machine Learning** and **Data science** to contribute to advancements that can move the world.
 
 - 🌱 On the way of learning *Artificial Inteligence* and *Data Science*.
 - 🎓 currently a Computer Science student at CESAR School

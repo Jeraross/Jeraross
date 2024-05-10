@@ -13,7 +13,7 @@ Everyone calls me Jera, so fell free to call me that way. My focus lies in speci
 - 🌱 On the way of learning *Artificial Inteligence* and *Data Science*.
 - 🎓 currently a Computer Science student at CESAR School
 - 📫 You can mail me at jerinha2006@gmail.com
-- 😍 My hobbies are playing games and doing/watch sports!
+- ⚡ My hobbies are playing games and doing/watching sports!
 - 🎸 Planning to learn Electric Guitar!
 
 <br />

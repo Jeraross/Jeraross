@@ -14,7 +14,7 @@ I am known to everybody as Jera, so fell free to call me that way. My focus lies
 - 🎓 currently a Computer Science student at CESAR School
 - 📫 You can mail me at jerinha2006@gmail.com
 - 😍 My hobbies are playing games and doing/watch sports!
-- 🎸 Planning to learn Eletric Guitar!
+- 🎸 Planning to learn Electric Guitar!
 
 <br />
 

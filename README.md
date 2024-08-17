@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/jer%C3%B4nimo-barbosa-3117382b7/)
 [![GitHub jeraross](https://img.shields.io/github/followers/Jeraross?label=follow&style=social)](https://github.com/Jeraross)
 
-### about me:
+### About me:
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp4d2JmYXZjZWR5cTRpdmQwdmhtZ2U5emU4a3dlbWpnNzVzZXFjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12XxYnYLMEn6yA/giphy.gif" width="300">
 

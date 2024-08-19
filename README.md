@@ -35,7 +35,6 @@ Everyone calls me Jera, so fell free to call me that way. My focus lies in speci
 
 <div>
 <a href="https://github.com/Jeraross">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeraross&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeraross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 

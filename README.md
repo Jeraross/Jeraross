@@ -1,44 +1,64 @@
-# Hi, I'm Jerônimo Barbosa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
 
-<a href="https://instagram.com/jeronimobrossi"><img src="https://img.shields.io/badge/-@jeronimobrossi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/jer%C3%B4nimo-barbosa-3117382b7/)
-[![GitHub jeraross](https://img.shields.io/github/followers/Jeraross?label=follow&style=social)](https://github.com/Jeraross)
+# Hi, I'm **Jerônimo** (but you can call me **Jera!**) 
 
-### About me:
+[![Instagram Badge](https://img.shields.io/badge/-@jeronimobrossi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeronimobrossi)
+[![Linkedin Badge](https://img.shields.io/badge/-Jerônimo%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jer%C3%A4%C3%B4nimo-barbosa-3117382b7/)
+[![GitHub followers](https://img.shields.io/github/followers/Jeraross?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/Jeraross)
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp4d2JmYXZjZWR5cTRpdmQwdmhtZ2U5emU4a3dlbWpnNzVzZXFjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12XxYnYLMEn6yA/giphy.gif" width="300">
-
-Everyone calls me Jera, so fell free to call me that way. My focus lies in specializing in **Machine Learning** and **Data science** to contribute to advancements that can move the world.
-
-- 🌱 On the way of learning *Artificial Inteligence* and *Data Science*.
-- 🎓 currently a Computer Science student at CESAR School
-- 📫 You can mail me at jerinha2006@gmail.com
-
-<br />
-
-### Technologies I've been learning:
-
-- Programming languages : <br />
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-- Frontend : <br />
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-- IDE & Tools : <br />
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br />
-
-### Statistics:
-
-<div>
-<a href="https://github.com/Jeraross">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeraross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+---
 
+Hey there! I’m a **Software Engineer at Accenture**, living the developer life between internal fights with myself and defending Gotham sometimes...
 
+I'm a **Backend Developer**, but I like to dip my toes into all corners of the tech universe 
 
+- Wrapping up my **Computer Science** degree at **CESAR School**  
+- Reach me at: **jerinha2006@gmail.com**
 
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp4d2JmYXZjZWR5cTRpdmQwdmhtZ2U5emU4a3dlbWpnNzVzZXFjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12XxYnYLMEn6yA/giphy.gif" width="70%" alt="Regular Show GIF">
+</div>
+
+---
+
+## 🛠️ My Tech Stack
+
+> *A carefully curated mess of languages, frameworks & tools.*
+
+<details open>
+  <summary><b>Backend (My Bread & Butter)</b></summary>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,typescript,javascript" />
+</details>
+
+<details>
+  <summary><b>Frontend (Yeah, I do this too)</b></summary>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+</details>
+
+<details>
+  <summary><b>Enterprise & Niche Stuff</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/-ABAP-F26614?style=flat&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-n8n-FF5500?style=flat&logo=n8n&logoColor=white"/>
+</details>
+
+<details>
+  <summary><b>Old School & Low-Level</b></summary>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</details>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeraross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeraross&layout=compact&theme=dracula&langs_count=10"/>
+</div>

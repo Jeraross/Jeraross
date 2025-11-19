@@ -25,7 +25,7 @@ I'm a **Backend Developer**, but I like to dip my toes into all corners of the t
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 > *A carefully curated mess of languages, frameworks & tools.*
 

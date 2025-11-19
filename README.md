@@ -32,7 +32,7 @@ I'm a **Backend Developer**, but I like to dip my toes into all corners of the t
 <details open>
   <summary><b>Backend (My Bread & Butter)</b></summary>
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,django,java,spring,typescript,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,typescript,javascript,c,cpp" />
 </details>
 
 <details>
@@ -46,12 +46,6 @@ I'm a **Backend Developer**, but I like to dip my toes into all corners of the t
   <br/>
   <img src="https://img.shields.io/badge/-ABAP-F26614?style=flat&logo=sap&logoColor=white"/>
   <img src="https://img.shields.io/badge/-n8n-FF5500?style=flat&logo=n8n&logoColor=white"/>
-</details>
-
-<details>
-  <summary><b>Old School & Low-Level</b></summary>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
 </details>
 
 ---
